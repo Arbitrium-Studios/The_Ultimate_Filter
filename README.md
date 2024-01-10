@@ -1,17 +1,32 @@
-# Ultimate Blacklist
-The Ultimate Blacklist is not meant to target anyone but instead should be used by companies to make social settings safe for everyone! This is NOT a filter but is a list of words meant to be formatted to be used with a filter like [BetterProfanity] or a home made filter of your own.
+# Ultimate Blacklist Repository
 
-As a part of the Better Together Project, I know how frustrating it is to put together a filter to protect your community from trolls. So, I made The Ultimate Blacklist in hopes that people will use the words in the `Ultimate Blacklist.txt` file to protect their own community like I protect mine!
+> I know how frustrating it is to put together a filter to protect your community from trolls and other trouble makers. So, as a part of the Better Together Project, The Ultimate Blacklist is not meant to target anyone but instead prevent these words from being used. Unfortunately, this repository does **__NOT__** contain an actual filter application. However, I recommend using [BetterProfanity] if you haven't made one of your own.
 
-### Note from Author:
+## Things to Note:
 
-Please use this respectfully and don't hate on people who use these words. The last thing this world needs is more hate. Also, feel free to give credit though, I don't require that because, this sort of thing should be free for all to use to protect their community online.
+1. Please use this respectfully and don't hate on people who use these words. The last thing this world needs is more hate. Also, feel free to give credit though, I don't require that because, this sort of thing should be free for all to use to protect their community online.
+2. If you are the owners of either of the repositories and you don't want this to be up, then I can take it down. Just post an issue and I'll take note!
+3. If you're using `Ultimate Blacklist.txt`, be warned that the list may be a bit to restrictive depending on how you set it up.
+4. The `Ultimate Blacklist.txt` and `Ultimate Blacklist but on one line.txt` files contain a list of a good chunk of EVERY offensive, innapropriate, and sexual words in the entire history of written language! Continue into these files at your own peril.
 
-### Trigger Warning:
 
-This list contains a list of nearly EVERY offensive, innapropriate, and sexual words in the entire English language and beyond! Continue into these files at your own peril.
+## Discord Setup:
 
-### Credits:
+1. Clone this Repository
+2. Go to your Discord Server's settings
+3. Under the `Moderation` category, select `Safety Setup`
+4. Click `Create Block Custom Words`
+5. Enter the Rule Name
+6. Open the text document that contains the words you want to filter
+7. Select all the words that you want.
+8. Make sure the words are properly formated according to Discord's setup
+9. Make any adjustments to the filter's text document that you require
+10. Copy then Paste the words into the text box
+11. Set up how you want to handle the situation when someone says these words.
+12. Press Save Changes
+
+
+## Credits:
 
 [BetterProfanity] for the base list of swear words, [Zacanger] for the additional list of words, and [LDNOOBW] for the swear words from the other languages!
 
@@ -20,7 +35,3 @@ This list contains a list of nearly EVERY offensive, innapropriate, and sexual w
 [Zacanger]: https://github.com/zacanger/profane-words
 
 [LDNOOBW]: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
-
-### Note:
-
-If you are the owners of either of the repositories and you don't want this to be up, then I can take it down. Just post an issue and I'll take note!
